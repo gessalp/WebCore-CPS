@@ -80,10 +80,10 @@ body {
     align-self: center;
     overflow: scroll;
 }
-/* ::-webkit-scrollbar {
+::-webkit-scrollbar {
     width: 0;
     background: rgba(255, 255, 255, 0.0);
-} */
+}
 .select-section__button:focus {
     height: 40px;
     background-color: white;
